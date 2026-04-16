@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>feedolin</title>
+    </head>
+    <body>
+
+       
+        <outline text="Substack" title="Substack">
+            <outline type="rss" text="Rachella Wred" title="Rachella Wred" xmlUrl="https://rachellawred.substack.com/feed" htmlUrl=""/>
+        </outline>
+
+        <outline text="Substack" title="Substack">
+            <outline type="rss" text="Naufragio - Uriel" title="Naufragio - Uriel" xmlUrl="https://urielef.substack.com/feed" htmlUrl=""/>
+        </outline>
+
+        <outline text="Substack" title="Substack">
+            <outline type="rss" text="High Brow - Mina Le" title="High Brow - Mina Le" xmlUrl="https://minale.substack.com/feed" htmlUrl=""/>
+        </outline>
+
+        <outline text="Substack" title="Substack">
+            <outline type="rss" text="The weekly scrapbook" title="The weekly scrapbook" xmlUrl="https://theweeklyscrapbook.substack.com/feed" htmlUrl=""/>
+        </outline>
+
+        <outline text="Substack" title="Substack">
+            <outline type="rss" text="PhyteSound" title="PhyteSound" xmlUrl="https://Phyte.substack.com/feed" htmlUrl=""/>
+        </outline>
+
+
+    </body>
+</opml>
